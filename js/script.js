@@ -1,3 +1,4 @@
+//membuat kuis matematika
 function submitJawaban(){
 	var total = 5;
 	var score = 0;
